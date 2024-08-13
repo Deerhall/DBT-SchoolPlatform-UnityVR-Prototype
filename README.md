@@ -5,4 +5,4 @@ This repository contains a Unity-based VR prototype developed as part of the Des
 
 ## Technology Stack
 * **Unity:** Game engine for VR development.
-* **[VR SDK used, e.g., Oculus, SteamVR, OpenXR]**
+* **VR SDK:** OpenXR.
